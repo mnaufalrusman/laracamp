@@ -18,7 +18,7 @@
                                 programming.
                             </p>
                             <p class="cta">
-                                <a href="#" class="btn btn-master btn-primary">
+                                <a href="#pricing" class="btn btn-master btn-primary">
                                     Get Started
                                 </a>
                             </p>
@@ -172,7 +172,7 @@
         </div>
     </section>
 
-    <section class="pricing">
+    <section class="pricing" id="pricing">
         <div class="container">
             <div class="row pb-70">
                 <div class="col-lg-5 col-12 header-wrap copywriting">
